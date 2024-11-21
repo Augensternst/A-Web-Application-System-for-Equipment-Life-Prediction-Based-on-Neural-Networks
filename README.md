@@ -1,2 +1,2 @@
 # A-Web-Application-System-for-Equipment-Life-Prediction-Based-on-Neural-Networks
-
+**"A-Web-Application-System-for-Equipment-Life-Prediction-Based-on-Neural-Networks"** is an intelligent management platform that integrates AI technology with industrial needs. It aims to monitor equipment status and predict its lifespan, helping businesses prevent failures in advance, reduce downtime and economic losses, and improve the efficiency and reliability of equipment management. The application allows users to upload data and select appropriate AI models for predictions, making it suitable for equipment maintenance and risk management in industries such as manufacturing and energy.
