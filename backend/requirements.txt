@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+tortoise-orm
+python-jose
+passlib
+python-multipart
+aiomysql
+aerich
+bcrypt
+gunicorn

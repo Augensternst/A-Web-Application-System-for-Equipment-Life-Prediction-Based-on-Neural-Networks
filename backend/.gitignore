@@ -1,0 +1,17 @@
+/uploaded_files/*
+/database/__pycache__/*
+/database/__pycache__/**
+/api/__pycache__/*
+/api/__pycache__/**
+/common/__pycache__/*
+/common/__pycache__/**
+/model_files/*
+/tools/__pycache__/*
+/tools/__pycache__/**
+model_files
+common/__pycache__/CommonResponse.cpython-311.pyc
+api/__pycache__/data.cpython-311.pyc
+.DS_Store
+**/__pycache__
+**/*.pyc
+*/__pycache__
